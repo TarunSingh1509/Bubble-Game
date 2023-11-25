@@ -114,7 +114,7 @@ html,body{
         /* flex-direction: column; */
         width: 100%;
         height: 100px;
-        /* background-color: black; */
+        background-color: black;
         padding: 0 33%;
     }
     .elem{
